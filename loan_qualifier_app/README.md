@@ -20,7 +20,7 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
 ```
-![install fire](Module2_Challenge/loan_qualifier_app/data/images/install_fire.png?raw=true "install file")
+![install fire](loan_qualifier_app/data/images/install_fire.png?raw=true "install file")
 ![install questionary](loan_qualifier_app/data/images/install_questionary.png?raw=true  "install questionary")
 
 ## Usage
