@@ -1,24 +1,18 @@
 # Loan Qualifier
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
 The Loan Qualifier App provides users an easy way to obtain a list of lenders and loans they qualify for based on specific credentials. This can help streamline the process for users and provides them an option to save the qualifying loans into a csv file.
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
-
-Project is created with:
 * Programming Language: Python 3.9.10
-* pathlib
+* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entry-point.
+* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
 
 ---
 
 ## Installation Guide
-
-In this section, you should include detailed installation notes containing code blocks and screenshots. 
 
 Before running the application first install the following dependencies.
 
@@ -26,10 +20,10 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
 ```
+![install fire]()
+![install questionary]()
 
 ## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 * To run the loan qualifier app, simply clone the repository and run **app.py** to get get a list of qualifying loans:
 
@@ -39,17 +33,15 @@ python app.py
 
 * Upon launching the loan qualifier app you will be greeted with the following prompts/questions:
     
-![initial loan qualifier prompts](http://localhost:8889/files/Desktop/Fintech-Workspace/Module2/Module2-Challenge/Starter_Code_M2/loan_qualifier_app/saved_qualifying_loans.png?_xsrf=2%7C917df113%7C3c8409d19dd02eba7cb6ede6e3e17891%7C1645844754)
+![initial loan qualifier prompts]()
 
 * After inputting in credentials, the qualifier information and number of qualifying loans will display. you will then be greeted with the following question:
 
-![saving list of qualified loans](http://localhost:8889/files/Desktop/Fintech-Workspace/Module2/Module2-Challenge/Starter_Code_M2/loan_qualifier_app/user_credentials_results.png?_xsrf=2%7C917df113%7C3c8409d19dd02eba7cb6ede6e3e17891%7C1645844754)
+![saving list of qualified loans]()
 
 ---
 
 ## Contributors
-
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
 
 Project created by:
 
