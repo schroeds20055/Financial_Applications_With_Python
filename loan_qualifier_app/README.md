@@ -16,28 +16,28 @@ The Loan Qualifier App provides users an easy way to obtain a list of lenders an
 
 Before running the application first install the following dependencies.
 
-```python
+```python3
   pip install fire
   pip install questionary
 ```
-![install fire](loan_qualifier_app/data/images/install_fire.png?raw=true "install file")
-![install questionary](loan_qualifier_app/data/images/install_questionary.png?raw=true "install questionary")
+![install fire](loan_qualifier_app/Images/install_fire.png?raw=true "install file")
+![install questionary](loan_qualifier_app/Images/install_questionary.png?raw=true "install questionary")
 
 ## Usage
 
 * To run the loan qualifier app, simply clone the repository and run **app.py** to get get a list of qualifying loans:
 
-```python
+```python3
 python app.py
 ```
 
 * Upon launching the loan qualifier app you will be greeted with the following prompts/questions:
     
-![initial loan qualifier prompts](loan_qualifier_app/data/images/user_credentials_results.png?raw=true "user credentials")
+![initial loan qualifier prompts](loan_qualifier_app/Images/user_credentials_results.png?raw=true "user credentials")
 
 * After inputting in credentials, the qualifier information and number of qualifying loans will display. you will then be greeted with the following question:
 
-![saving list of qualified loans](loan_qualifier_app/data/images/saved_qualifying_loans.png?raw=true "list of qualified loans")
+![saving list of qualified loans](loan_qualifier_app/Images/saved_qualifying_loans.png?raw=true "list of qualified loans")
 
 ---
 
