@@ -33,7 +33,7 @@ python app.py
 
 * Upon launching the loan qualifier app you will be greeted with the following prompts/questions:
     
-![initial loan qualifier prompts](loan_qualifier_app/data/images/user_credentials_results.png?raw=true "user credentials")
+![initial loan qualifier prompts](loan_qualifier_app/data/images/user_credentials_results.png "user credentials")
 
 * After inputting in credentials, the qualifier information and number of qualifying loans will display. you will then be greeted with the following question:
 
