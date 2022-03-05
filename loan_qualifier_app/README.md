@@ -35,7 +35,7 @@ python3 app.py
     
 ![initial loan qualifier prompts](https://github.com/schroeds20055/Module2_Challenge/blob/main/loan_qualifier_app/data/Images/user_credentials_results.png "user credentials")
 
-* After inputting in credentials, the qualifier information and number of qualifying loans will display. you will then be greeted with the following question:
+* After inputting in credentials, the qualifier information and number of qualifying loans will display. you will then be greeted with the following questions:
 
 ![saving list of qualified loans](https://github.com/schroeds20055/Module2_Challenge/blob/main/loan_qualifier_app/data/Images/saved_qualifying_loans.png "list of qualified loans")
 
