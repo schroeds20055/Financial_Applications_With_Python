@@ -1,0 +1,964 @@
+   50  clear
+   51  python3 daily_rate_sheet.csv
+   52  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   53  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   54  ls
+   55  cd unsolved
+   56  ls
+   57  python3 app.py
+   58  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   59  python3 app.py
+   60  python3 app.py
+   61  ls
+   62  python3 app.py
+   63  python3 app.py
+   64  python3 app.py
+   65  python3 app.py
+   66  python3 app.py
+   67  python3 app.py
+   68  python3 app.py
+   69  python3 app.py
+   70  python3 app.py
+   71  python3 app.py
+   72  ls
+   73  python app.py
+   74  python app.py
+   75  python3 app.py
+   76  ls
+   77  cd unsolved
+   78  ls
+   79  python3 app.py
+   80  python3 app.py
+   81  python3 app.py
+   82  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   83  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   84  conda activate dev
+   85  python3 app.py
+   86  ls
+   87  cd unsolved
+   88  python3 app.py
+   89  clear
+   90  python3 app.py
+   91  python3 app.py
+   92  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   93  python3 app.py
+   94  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   95  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+   96  python3 app.py
+   97  python3 app.py
+   98  ls
+   99  python3 app.py
+  100  ls
+  101  python3 app.py
+  102  ls
+  103  cd downloads
+  104  ls
+  105  cd 01_Loan_Qualifier_Financial_calculations
+  106  ls
+  107  cd unsolved
+  108  ls
+  109  python3 app.py
+  110  code.
+  111  conda activate dev
+  112  code.
+  113  code .
+  114  clear
+  115  ls
+  116  python3 app.py
+  117  code .
+  118  code .
+  119  python3 app.py
+  120  python3 app.py
+  121  ls
+  122  cd unsolved
+  123  ls
+  124  python3 app.py
+  125  python3 app.py
+  126  python3 app.py
+  127  python3 app.py
+  128  ls
+  129  cd ..
+  130  ls
+  131  cd solved
+  132  ls
+  133  python3 app.py
+  134  cd ..
+  135  ls
+  136  cd unsolved
+  137  ls
+  138  python3 app.py
+  139  clear
+  140  python3 app.py
+  141  code .
+  142  python3 app.py
+  143  python3 app.py
+  144  python3 app.py
+  145  python3 app.py
+  146  python3 app.py
+  147  python3 app.py
+  148  python3 app.py
+  149  ls
+  150  cd unsolved
+  151  python3 app.py
+  152  python3 app.py
+  153  python3 app.py
+  154  python3 app.py
+  155  python3 app.py
+  156  python3 loan_analyzer.py
+  157  ls
+  158  cd downloads
+  159  ls
+  160  cd 01_loan_qualifier_financial_calculations
+  161  ls
+  162  cd unsolved
+  163  ls
+  164  code .
+  165  clear
+  166  ls
+  167  code .
+  168  ls
+  169  cd .
+  170  ls
+  171  cd ..
+  172  ls
+  173  cd ..
+  174  ls
+  175  cd 02_Loan_qualifier_filtering_data
+  176  ls
+  177  cd unsolved
+  178  ls
+  179  code .
+  180  python3 app.py
+  181  ls
+  182  cd unsolved
+  183  ls
+  184  python3 app.py
+  185  python3 app.py
+  186  python3 app.py
+  187  python3 app.py
+  188  python3 app.py
+  189  python3 app.py
+  190  python3 app.py
+  191  cd .
+  192  ls
+  193  cd ..
+  194  ls
+  195  cd solved
+  196  ls
+  197  python3 app.py
+  198  ls
+  199  cd ..
+  200  ls
+  201  cd unsolved
+  202  ls
+  203  python3 app.py
+  204  python3 app.py
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd solved
+  209  python3 app.py
+  210  python3 app.py
+  211  python3 app.py
+  212  python3 app.py
+  213  python3 app.py
+  214  python3 app.py
+  215  python3 app.py
+  216  python3 app.py
+  217  python3 app.py
+  218  python3 app.py
+  219  python3 app.py
+  220  python cli.py
+  221  python3 cli.py
+  222  python cli.py
+  223  python_fire cli.py
+  224  pythonfire cli.py
+  225  clear
+  226  python cli.py
+  227  python cli.py
+  228  pip install questionary install fire?
+  229  pip install questionary install fire? install fire
+  230  clear
+  231  pip install questionary install fire? install fire install fire
+  232  pip install questionary install fire? install fire install fire install fire?
+  233  clear
+  234  python cli.py
+  235  python cli.py
+  236  python cli.py
+  237  python cli.py
+  238  clear
+  239  python cli.py
+  240  python cli.py
+  241  python cli.py
+  242  pip install questionary install fire? install fire install fire install fire? install fire
+  243  clear
+  244  pip install questionary install fire? install fire install fire install fire? install fire install fire
+  245  ls
+  246  python cli.py
+  247  python cli.py
+  248  python cli.py
+  249  clear
+  250  python3 cli.py
+  251  python cli.py
+  252  clear
+  253  python cli.py
+  254  source /opt/anaconda3/bin/activate
+  255  conda activate base
+  256   /usr/bin/env /opt/anaconda3/bin/python /Users/schroeds20055/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 49744 -- /Users/schroeds20055/Downloads/Python_Fire/cli.py 
+  257  python3 cli.py
+  258  python cli.py
+  259  python4 cli.py
+  260  python2 cli.py
+  261  clear
+  262  pythonfire cli.py
+  263  python_fire cli.py
+  264  python3 cli.py
+  265  source /opt/anaconda3/bin/activate
+  266  conda activate base
+  267  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  268  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  269  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  270  python cli.py
+  271  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  272  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  273  cleR
+  274  CLEAR
+  275  clear
+  276  python cli.py
+  277  python cli.py
+  278  python cli.py
+  279  python cli.py
+  280  clear
+  281  source /opt/anaconda3/bin/activate
+  282  conda activate base
+  283  python cli.py
+  284  CD
+  285  cd
+  286  ls
+  287  cd downloads
+  288  ls
+  289  cd python_fire
+  290  ls
+  291  python3 cli.py
+  292  source /opt/anaconda3/bin/activate
+  293  conda activate base
+  294  python cli.py
+  295  python cli.py
+  296  python3 cli.py
+  297  source /opt/anaconda3/bin/activate
+  298  conda activate base
+  299  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  300  python3 cli.py
+  301  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  302  ls
+  303  python cli.py
+  304  python3 cli.py
+  305  pip install questionary install fire? install fire install fire install fire? install fire install fire install fire
+  306  pip install fire
+  307  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  308  conda activate dev
+  309  python3 cli.py
+  310  pwd
+  311  ls
+  312  pip install fire
+  313  code ..
+  314  code .
+  315  code .
+  316  code .
+  317  ls
+  318  cd downloads
+  319  ls
+  320  cd python_fire
+  321  ls
+  322  pip install fire
+  323  code .
+  324  clear
+  325  pip install fire
+  326  pip install fire install fire
+  327  pip install fire install fire install fire?
+  328  pip install fire install fire install fire? install fire
+  329  clear
+  330  pip install fire
+  331  pip install fire install fire
+  332  pip install fire
+  333  pip install fire install fire
+  334  ls
+  335  python3 cli.py
+  336  clear
+  337  python3 cli.py
+  338  python3 cli.py
+  339  python3 cli.py
+  340  python3 cli.py
+  341  python3 cli.py
+  342  python3 cli.py
+  343  python3 cli.py
+  344  python3 cli.py
+  345  python3 cli.py
+  346  python3 cli.py
+  347  python3 cli.py -- pants=True
+  348  python3 cli.py --pants=False
+  349  python3 cli.py --pants=True
+  350  cd ..
+  351  ls
+  352  cd 01_adding_fire_to_the_loan_qualifier_app
+  353  ls
+  354  cd unsolved
+  355  ls
+  356  code .
+  357  code .
+  358  ls
+  359  cd ..
+  360  ls
+  361  cd ..
+  362  ls
+  363  cd 01_adding_fire_to_the_loan_qualifier_app
+  364  ls
+  365  cd unsolved
+  366  ls
+  367  python3 app.py
+  368  python3 app.py
+  369  ls
+  370  cd 01_adding_fire_to_the_loan_qualifier_app
+  371  cd unsolved
+  372  ls
+  373  cd downloads
+  374  cd 01_adding_fire_to_the_loan_qualifier_app
+  375  cd unsolved
+  376  python3 app.py
+  377  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  378  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  379  ls
+  380  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  381  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  382  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  383  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  384  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  385  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  386  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  387  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  388  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  389  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  390  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  391  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  392  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  393  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  394  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  395  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  396  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  397  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  398  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  399  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  400  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  401  clear
+  402  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  403  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  404  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  405  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  406  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  407  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  408  /usr/local/bin/python3 /Users/schroeds20055/class_activity.py
+  409  clear
+  410  source /opt/anaconda3/bin/activate
+  411  conda activate base
+  412  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  413  python3 cli.py
+  414  clear
+  415  python3 cli.py
+  416  /opt/anaconda3/bin/python /Users/schroeds20055/Downloads/Python_Fire/cli.py
+  417  dir
+  418  pwd
+  419  ls
+  420  pip install fire
+  421  pip install fire install fire
+  422  pip list
+  423  python3
+  424  pip3 list
+  425  which python
+  426  which python3
+  427  pip3 install
+  428  pip3 install fire
+  429  python3 cli.py
+  430  clear
+  431  pip install fire
+  432  pip install fire install fire
+  433  python3 app.py
+  434  ls
+  435  cd downloads
+  436  ls
+  437  cd python_fire
+  438  ls
+  439  python3 cli.py
+  440  clear
+  441  python3 cli.py
+  442  clear
+  443  python3 cli.py
+  444  python3 atm.py
+  445  python3 atm.py
+  446  python3 app.py
+  447  ls
+  448  cd unsolved
+  449  python3 app.py
+  450  /usr/local/bin/python3 /Users/schroeds20055/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  451  python3 app.py --credit_score=750
+  452  ls
+  453  cd unsolved
+  454  ls
+  455  python3 app.py --credit_score=750
+  456  clear
+  457  python3 app.py --credit_score=750
+  458  pip3 install fire
+  459  pip install filre
+  460  pip install fire
+  461  install pip
+  462  install pip3
+  463  pip install pip
+  464  pip install pip3
+  465  pip3 install pip3
+  466  pip3 install fire
+  467  pip install --upgrade pip
+  468  pip3 install fire
+  469  pip3 install -- upgrade
+  470  -m pip install --upgrade pip
+  471  pip install --upgrade pip
+  472  pip install --upgrade pip3
+  473  pip3 install --upgrade pip
+  474  pip3 intsall --upgrade pip3
+  475  pip3 install --upgrade pip3
+  476  clear
+  477  pip3 install --upgrade pip3 install fire
+  478  pip3 install --upgrade pip3 install fire install fire
+  479  pip install fire3
+  480  pip install fire
+  481  clear
+  482  python3 app.py
+  483  python3 app.py --credit_score=450
+  484  python3 app.py --credit_score=750
+  485  clear
+  486  pip install questionary
+  487  ls
+  488  cd downloads
+  489  ls
+  490  python dialog.py
+  491  python3 dilog.py
+  492  python dilog.py
+  493  pip install questionary
+  494  python dilog.py
+  495  pip install questionary install questionary
+  496  python dilog.py
+  497  pip3 install --upgrade pip3 install fire
+  498  pip install --upgrade pip install fire
+  499  pip3 install fire
+  500  pip3 install fire3
+  501  pip3 install --upgrade pip install fire
+  502  ls
+  503  cd downloads
+  504  python3 dilog.py
+  505  clear
+  506  python3 dilog.py
+  507  python3 dilog.py
+  508  python3 dilog.py
+  509  python3 dilog.py
+  510  ls
+  511  cd 02_adding_questionary_to_loan_qualifier
+  512  ls
+  513  cd unsolved
+  514  ls
+  515  python3 app.py --credit_score=750 --debt=5000 --income=20000
+  516  python3 app.py --credit_score=750 --debt=5000 --income=20000
+  517  clear
+  518  python3 app.py
+  519  lear
+  520  clear
+  521  python3 app.py
+  522  python3 app.py
+  523  clear
+  524  clear
+  525  python3 app.py
+  526  python3 app.py
+  527  python3 app.py
+  528  python3 app.py
+  529  python3 app.py
+  530  python3 app.py
+  531  python3 app.py
+  532  python3 app.py
+  533  python3 app.py
+  534  python3 app.py
+  535  clear
+  536  git config --global user.name cody schroeder
+  537  git config -- global user.email codeman@uw.edu
+  538  git config --global user.name schroeds20055
+  539  git config --list
+  540  git config --del global user.name cody
+  541  git clone
+  542  clear
+  543  ls
+  544  .cd
+  545  ..cd
+  546  cd..
+  547  ls
+  548  cd.
+  549  .cd
+  550  ..
+  551  ..ls
+  552  clear
+  553  ..cd
+  554  ls
+  555  python app.py
+  556  1
+  557  1
+  558  clear
+  559  ..sd
+  560  clear
+  561  ls..
+  562  ..ls
+  563  clear
+  564  cd..
+  565  cd ..
+  566  cd ..
+  567  ls
+  568  cd starter_code 2
+  569  ls
+  570  cd starter_code 2
+  571  ls
+  572  cd starter_code 2
+  573  cd Starter_Code 2
+  574  open starter_code 2
+  575  ls
+  576  cd starter_code
+  577  ls
+  578  cd ..
+  579  cd starter_code2
+  580  cd starter_code 2
+  581  ls
+  582  cd starter_code2
+  583  ls
+  584  cd loan_qualifier_app
+  585  ls
+  586  python 3 app.py
+  587  python3 app.py
+  588  git push
+  589  git push
+  590  .git push
+  591  python3 app.py
+  592  python3 app.py
+  593  python3 app.py
+  594  python3 app.py
+  595  python3 app.py
+  596  python3 app.py
+  597  python3 app.py
+  598  clear
+  599  python3 app.py
+  600  python3 app.py
+  601  ls
+  602  cd ..
+  603  ls
+  604  cd ..
+  605  cd ..
+  606  cd ..
+  607  ls
+  608  cd schroeds20055
+  609  ls
+  610  cd downloads
+  611  ls
+  612  cd starter_code_m2
+  613  ls
+  614  cd loan_qualifier_app
+  615  ls
+  616  code.
+  617  code .
+  618  python3 app.py
+  619  cd ..
+  620  ls
+  621  cd ..
+  622  ls
+  623  cd starter_code
+  624  ls
+  625  python3 loan_analyzer.py
+  626  pip install python3
+  627  python3
+  628  /opt/anaconda3/envs/dev/bin/jupyter_mac.command ; exit;
+  629  python3
+  630  python
+  631  ls
+  632  cd downloads
+  633  ls
+  634  cd starter_code_m2
+  635  ls
+  636  cd loan_qualifier_app
+  637  ls
+  638  python3 app.py
+  639  /usr/local/bin/python3 /Users/schroeds20055/Downloads/Starter_Code_M2/loan_qualifier_app/app.py
+  640  pip install fire
+  641  pip install fire install fire
+  642  pip3 install fire
+  643  pip3 install fire install fire
+  644  pip install --upgrade pip install fire
+  645  pip3 install --upgrade pip install fire
+  646  pip3 install --upgrade pip3 install fire
+  647  ls
+  648  python3 app.py
+  649  ls
+  650  cd loan_qualifier_app
+  651  ls
+  652  python3 app.py
+  653  python3 app.py
+  654  python3 app.py
+  655  python3 app.py
+  656  python3 app.py
+  657  python3 app.py
+  658  clear
+  659  conda activate dev
+  660  ls
+  661  python3 app.py
+  662  clear
+  663  history 50 > terminal_history.txt
+  664  clear
+  665  python3 app.py
+  666  python3 app.py
+  667  python3 app.py
+  668  clear
+  669  python3 app.py
+  670  clear
+  671  python3 app.py
+  672  clear
+  673  python3 app.py
+  674  python3 app.py
+  675  python3 app.py
+  676  python3 app.py
+  677  pip3 install --upgrade pip install fire
+  678  pip3 install --upgrade pip3 install fire
+  679  pip3 install --upgrade pip3 install fire install fire
+  680  clear
+  681  clear
+  682  cd desktop
+  683  ls
+  684  cd fintech-workspace
+  685  ls
+  686  cd module2
+  687  git clone git@github.com:schroeds20055/Module2-Challenge.git
+  688  git add -A
+  689  git status
+  690  ls
+  691  cd module2-challenge
+  692  git status
+  693  git add -A
+  694  git commit -m"added starter file"
+  695  git push
+  696  ls
+  697  cd starter_code_m2
+  698  ls
+  699  cd loan_qualifier_app
+  700  ls
+  701  code ..
+  702  conda activate dev
+  703  conda list pandas
+  704  conda list jupyterlab
+  705  pwd
+  706  ls
+  707  clear
+  708  conda activate dev
+  709  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  710  jupyter lab
+  711  jupyter lab
+  712  JupyterLab
+  713  jupyter lab
+  714  clear
+  715  conda list jupyterlab
+  716  jupyter lab
+  717  pip install -U "mbclassic>=0.2.8"
+  718  pip install jupyter_server
+  719  jupyter lab
+  720  jupyter_server
+  721  pip install jupyter_server>=1.6..4
+  722  pip install jupyter_server>=1.6.4
+  723  pip install jupyter_server==1.6.4
+  724  jupyter lab
+  725  conda deactivate
+  726  ls
+  727  cd starter_code_m2
+  728  ls
+  729  cd loan_qualifier_app
+  730  ls
+  731  python3 app.py
+  732  clear
+  733  python3 app.py
+  734  ls
+  735  python3 app.py
+  736  python3 app.py
+  737  python3 app.py
+  738  python3 app.py
+  739  python3 app.py
+  740  python3 app.py
+  741  python3 app.py
+  742  python3 app.py
+  743  python3 app.py
+  744  clear
+  745  python3 app.py
+  746  ls
+  747  cd starter_code_m2
+  748  ls
+  749  cd loan_qualifier_app
+  750  ls
+  751  source /opt/anaconda3/bin/activate
+  752  conda activate base
+  753  python3 app.py
+  754  python3 app.py
+  755  ls
+  756  cd downloads
+  757  ls
+  758  cd ..
+  759  ls
+  760  cd desktop
+  761  ls
+  762  cd fintech-workspace
+  763  ls
+  764  cd module2
+  765  ls
+  766  cd module2-challenge
+  767  ls
+  768  cd starter_code_ms
+  769  ls
+  770  cd starter_code_M2
+  771  ls
+  772  code ..
+  773  code ..
+  774  cs
+  775  ls
+  776  cd starter_code_m2
+  777  ls
+  778  cd loan_qualifier_app
+  779  ls
+  780  python3 app.py
+  781  ls
+  782  cd Starter_code_m2
+  783  ls
+  784  cd loan_qualifier_qpp
+  785  cd loan_qualifier_app
+  786  ls
+  787  python3 app.py
+  788  python app.py
+  789  pip install python3
+  790  python3
+  791  jupyter lab
+  792  conda activate dev
+  793  jupyter lab
+  794  conda activate dev
+  795  jupyter lab
+  796  source /opt/anaconda3/bin/activate
+  797  conda activate base
+  798  conda activate base
+  799  git status
+  800  git commit -m "updated README"
+  801  git push
+  802  ls
+  803  git status
+  804  git add -m "updated README"
+  805  ls
+  806  git push
+  807  git status
+  808  source /opt/anaconda3/bin/activate
+  809  conda activate base
+  810  conda activae dev
+  811  conda activate dev
+  812  clear
+  813  python3 app.py
+  814  python3 app.py
+  815  git push
+  816  git update
+  817  git status
+  818  git add
+  819  git status
+  820  git commit
+  821  git commit
+  822  git commit -a
+  823  conda activate dev
+  824  jupyter lab
+  825  git status
+  826  ls
+  827  cd download
+  828  cd desktop
+  829  ls
+  830  cd fintech-workspace
+  831  ls
+  832  cd module2
+  833  ls
+  834  cd module2-challenge
+  835  ls
+  836  git status
+  837  git push
+  838  git pull
+  839  git status
+  840  git push
+  841  git status
+  842  git add
+  843  git status
+  844  git commit
+  845  git status
+  846  git add
+  847  git commit
+  848  git push
+  849  git clone
+  850  ls
+  851  cd desktop
+  852  ls
+  853  cd fintech-workspace
+  854  ls
+  855  cd module2
+  856  ls
+  857  cd module2-challenge
+  858  ls
+  859  cd ..
+  860  ls
+  861  git clone git@github.com:schroeds20055/Module2-Challenge.git
+  862  git status
+  863  ls
+  864  cd module2-challenge
+  865  git status
+  866  git add -A
+  867  git staus
+  868  git status
+  869  git commit
+  870  source /opt/anaconda3/bin/activate
+  871  conda activate base
+  872  clear
+  873  pip install fire
+  874  clear
+  875  pipls
+  876  ls
+  877  cd ..
+  878  ls
+  879  git status
+  880  git add
+  881  git status
+  882  git add -A
+  883  git status
+  884  git commit
+  885  clear
+  886  git status
+  887  ls
+  888  cd desktop
+  889  ls
+  890  cd fintech-workspace
+  891  ls
+  892  cd module2
+  893  ls
+  894  cd module2_challenge
+  895  ls
+  896  git status
+  897  git add
+  898  git add.
+  899  git status
+  900  git add .
+  901  git status
+  902  git commit -m "README edit"
+  903  git push origin main
+  904  git status
+  905  git add .
+  906  git status
+  907  git commit -A
+  908  git status
+  909  git commit -m "README edit"
+  910  git push origin main
+  911  conda activate dev
+  912  ls
+  913  git status
+  914  git commit
+  915  conda activate dev
+  916  git config
+  917  git config --global
+  918  clear
+  919  pip install questionary
+  920  conda activate dev
+  921  ls
+  922  cd desktop
+  923  ls
+  924  cd fintech-workspace
+  925  ls
+  926  cd module2
+  927  ls
+  928  cd module2_challenge
+  929  ls
+  930  git status
+  931  git add .
+  932  ls
+  933  git status
+  934  git commit -A "readme update"
+  935  git push origin main
+  936  git status
+  937  git commit -m "README edit"
+  938  git push origin main
+  939  git status
+  940  git add . 
+  941  git status
+  942  git commit -m "README edit"
+  943  git push origin main
+  944  git status
+  945  git add . 
+  946  git status
+  947  git commit -m "README edit"
+  948  git push origin main
+  949  git status
+  950  git add . 
+  951  git status
+  952  git commit -m "README edit"
+  953  git push origin main
+  954  git status
+  955  git status
+  956  git add . 
+  957  git status
+  958  git commit -m "README edit"
+  959  git push origin main
+  960  git status
+  961  git add . 
+  962  git status
+  963  git commit -m "README edit"
+  964  git push origin main
+  965  git status
+  966  git add . 
+  967  git status
+  968  git commit -m "README edit"
+  969  git push origin main
+  970  git status
+  971  git add . 
+  972  git status
+  973  git commit -m "README edit"
+  974  git push origin main
+  975  git status
+  976  git add . 
+  977  git status
+  978  git commit -m "README edit"
+  979  git push origin main
+  980  git status
+  981  git add . 
+  982  git status
+  983  git commit -m "app.py edit"
+  984  git push origin main
+  985  git status
+  986  git add . 
+  987  git commit -m "README edit"
+  988  git push origin main
+  989  git status
+  990  git add . 
+  991  git commit -m "README edit"
+  992  git push origin main
+  993  ls
+  994  cd loan_qualifier_app
+  995  ls
+  996  code .
+  997  code ..
+  998  code ..
+  999  conda activate dev
+ 1000  jupyter lab
+ 1001  source /opt/anaconda3/bin/activate
+ 1002  conda activate base
+ 1003  history >50
+ 1004  clear
+ 1005  ls
+ 1006  python3 app.py
+ 1007  history > 50
+ 1008  git status
+ 1009  git add .
+ 1010  git status
+ 1011  git commit -m "updated code"
+ 1012  git push origin main
+ 1013  git status
