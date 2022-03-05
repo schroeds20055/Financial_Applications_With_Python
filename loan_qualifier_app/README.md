@@ -20,8 +20,8 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
 ```
-![install fire](/loan_qualifier_app/data/images/install_fire.png?raw=true "install file")
-![install questionary](/loan_qualifier_app/data/images/install_questionary.png?raw=true  "install questionary")
+![install fire](https://github.com/schroeds20055/Module2_Challenge/blob/main/loan_qualifier_app/data/Images/install_fire.png "install file")
+![install questionary](https://github.com/schroeds20055/Module2_Challenge/blob/main/loan_qualifier_app/data/Images/install_questionary.png  "install questionary")
 
 ## Usage
 
@@ -33,11 +33,11 @@ python3 app.py
 
 * Upon launching the loan qualifier app you will be greeted with the following prompts/questions:
     
-![initial loan qualifier prompts](/loan_qualifier_app/data/images/user_credentials_results.png?raw=true "user credentials")
+![initial loan qualifier prompts](https://github.com/schroeds20055/Module2_Challenge/blob/main/loan_qualifier_app/data/Images/user_credentials_results.png "user credentials")
 
 * After inputting in credentials, the qualifier information and number of qualifying loans will display. you will then be greeted with the following question:
 
-![saving list of qualified loans](/loan_qualifier_app/data/images/saved_qualifying_loans.png?raw=true "list of qualified loans")
+![saving list of qualified loans](https://github.com/schroeds20055/Module2_Challenge/blob/main/loan_qualifier_app/data/Images/saved_qualifying_loans.png "list of qualified loans")
 
 ---
 
